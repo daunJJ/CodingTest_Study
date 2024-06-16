@@ -8,7 +8,7 @@
   * [정다운](https://github.com/daunJJ)
   * [이준희](https://github.com/Ijhee)
 * 스터디 진행 방식
-  * 주차별 문제 풀이 및 풀이 방법 공유 / 모범 답안 생성 
+  * 주차별 문제 풀이 및 풀이 방법 공유 -> 모범 답안 생성 
 
 ## Content
 **Python 문제 풀이**
